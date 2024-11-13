@@ -38,6 +38,8 @@ There is an existing implementation of this project at:
 Open Exchange Tickers  
 [GitHub - pecknigel/open-exchange-tickers](https://github.com/pecknigel/open-exchange-tickers)
 
+Rather than create your own implementation of this project, you may want to get involved in adding features to the existing implementation.
+
 ## Tasks
 
 For ideas on how to move forward with using this project to practice writing software, see [TASKS](https://github.com/pecknigel/exchange-tickers-practice-project/blob/main/TASKS.md).
