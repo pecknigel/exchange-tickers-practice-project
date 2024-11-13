@@ -30,6 +30,8 @@ Consider putting this new code that makes the call to generate the data and outp
 
 That way you can reuse your module in other ways. It’s not tied to the way that it’s used.
 
+It’s also just good practice to organise your code in this way, so it’s separate and each piece has a particular responsibility.
+
 Since this is a way to call your program, add a script to your `package.json` such as:
 
 ```
