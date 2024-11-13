@@ -31,6 +31,13 @@ More information will be provided here soon, as we work with students on this pr
 
 Ongoing support and guided learning is available from Nigel via the [main website](https://prescriptionfree.academy/).
 
+## Existing Implementation
+
+There is an existing implementation of this project at:
+
+Open Exchange Tickers  
+[GitHub - pecknigel/open-exchange-tickers](https://github.com/pecknigel/open-exchange-tickers)
+
 ## Tasks
 
 For ideas on how to move forward with using this project to practice writing software, see [TASKS](https://github.com/pecknigel/exchange-tickers-practice-project/blob/main/TASKS.md).
