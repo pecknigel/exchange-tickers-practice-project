@@ -29,6 +29,8 @@ You’ll need Node.js installed in order to run your script.
 
 More information will be provided here soon, as we work with students on this project.
 
+To learn what you need to complete this project, check out our [Courses and Resources](https://docs.prescriptionfree.academy/resources) page.
+
 Ongoing support and guided learning is available from Nigel via the [main website](https://prescriptionfree.academy/).
 
 ## Existing Implementation
