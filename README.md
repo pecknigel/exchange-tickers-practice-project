@@ -1,4 +1,6 @@
 
+**This project is a working draft. It is not complete. Please make use of it. Feedback is appreciated.**
+
 # Exchange Tickers Practice Project
 
 This repository is provided for students looking to work on a data service to generate fake trading price tickers representing active markets.
