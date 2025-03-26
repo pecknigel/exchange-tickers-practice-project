@@ -4,7 +4,7 @@
 
 This repository is provided for students looking to work on a data service to generate fake trading price tickers representing active markets.
 
-It’s part of the [Trading Exchange Collaborative Learning Program](https://github.com/pecknigel/trading-exchange-collaborative-learning) from the [Prescription Free Academy of Web Development and Software Engineering](https://prescriptionfree.academy/)
+It’s part of the [Trading Exchange Collaborative Learning Program](https://github.com/pecknigel/trading-exchange-collaborative-learning).
 
 Technologies Used:
 
@@ -30,9 +30,9 @@ You’ll need Node.js installed in order to run your script.
 
 More information will be provided here soon, as we work with students on this project.
 
-To learn what you need to complete this project, check out our [Courses and Resources](https://docs.prescriptionfree.academy/resources) page.
+To learn what you need to complete this project, check out our [Courses and Resources](https://library.peckn.net/resources) page.
 
-Ongoing support and guided learning is available from Nigel via the [main website](https://prescriptionfree.academy/).
+Ongoing support and guided learning is available from Nigel via [Preply](https://preply.com/en/tutor/4217857).
 
 ## Existing Implementation
 
